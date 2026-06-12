@@ -2,6 +2,8 @@
 
 GitHub-style terminal activity heatmap for your MiMoCode usage data.
 
+> **Not affiliated with MiMoCode or Xiaomi.** This is an independent, third-party CLI tool that reads locally-stored MiMoCode SQLite data. It is not built by, endorsed by, or affiliated with the MiMoCode team in any way.
+
 <p align="center">
   <img src="mimo-streak.gif" alt="mimo-streak demo" width="800">
 </p>
